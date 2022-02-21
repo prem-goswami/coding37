@@ -1,0 +1,25 @@
+.bgContainer {
+  background-color: #161625;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+}
+.logoContainer {
+  display: flex;
+  align-items: center;
+}
+
+.logoImage {
+  height: 30px;
+  margin-right: 10px;
+}
+p {
+  color: white;
+  font-family: 'roboto';
+}
+
+h1 {
+  color: white;
+  font-family: 'roboto';
+}
